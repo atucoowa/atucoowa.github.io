@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atucoowa.github.io/iRu/sitemap_index.txt
+Sitemap: https://atucoowa.github.io/kmV/sitemap_index.txt
+Sitemap: https://atucoowa.github.io/log/sitemap_index.txt
+Sitemap: https://atucoowa.github.io/suX/sitemap_index.txt
